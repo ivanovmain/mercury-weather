@@ -1,0 +1,7 @@
+.app {
+  background-image: url("../assets/background/bg-top.png"), url("../assets/background/bg-bot.png");
+  background-repeat: no-repeat, no-repeat;
+  background-position: top right, bottom left;
+  width: 100%;
+  height: 100vh;
+}
